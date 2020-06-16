@@ -18,6 +18,7 @@ const StorageCtrl = (function () {
         items.push(item);
         // Reset ls
         localStorage.setItem('items', JSON.stringify(items));
+        console.log('Hello github test');
       }
     },
     getItemsFromStorage: function () {
