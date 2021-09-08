@@ -1,2 +1,2 @@
 # Tracalorie
-Tracalorei project fot github learning
+Tracalorei project for github learning
